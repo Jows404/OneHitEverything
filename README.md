@@ -3,6 +3,8 @@ Jows404's OneHitEverything Plugin
 OneHitEverything is a lightweight, no-dependency Minecraft plugin that sets every living entity in the game, players, mobs, 
 and bosses to exactly 1 heart of health. One hit equals instant death.
 
+https://www.spigotmc.org/resources/onehiteverything.132702/
+
 ## Features
 - **One Hit Kill** – Every entity dies in one hit. Players, mobs, bosses. No exceptions.
 - **Boss Compatible** – Ender Dragon, Wither, Elder Guardians. All 1 HP.
