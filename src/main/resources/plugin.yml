@@ -1,0 +1,15 @@
+name: OneHitEverything
+version: '1.0'
+main: me.yusufali.onehiteverything.Main
+api-version: '1.21'
+
+permissions:
+  onehit.admin:
+    description: Allows you to toggle the plugin or disable the one-hit effect.
+    default: op
+
+commands:
+  onehit:
+    description: Main command for the plugin
+    usage: /onehit <enable | disable>
+    permission: onehit.admin

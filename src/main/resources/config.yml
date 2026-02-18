@@ -1,0 +1,33 @@
+#============================================#
+#        [OneHitEverything] Configuration    #
+#============================================#
+# Plugin by: Jows404
+# Version: 1.0
+# Social Media: https://www.youtube.com/@Jows404
+# Discord: https://discord.gg/tymMfd2KC9
+
+#============================================#
+#            SETTINGS                        #
+#============================================#
+enabled: true
+
+#============================================#
+#           MESSAGE SETTINGS                 #
+#============================================#
+
+messages:
+  prefix: "&8[&6OneHitEverything&8]&r"
+
+  enabled: "{prefix} &aPlugin Enabled"
+  disabled: "{prefix} &cPlugin Disabled"
+  no-permission: "{prefix} &cYou don't have permission"
+
+  death: "was one-hit killed"
+
+#============================================#
+#           ADVANCED SETTINGS                #
+#============================================#
+
+advanced:
+  # Send anonymous usage statistics
+  metrics: true

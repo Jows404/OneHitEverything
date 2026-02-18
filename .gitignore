@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Plugin files
+*.log
+/plugins/
+/versions/
